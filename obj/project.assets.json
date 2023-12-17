@@ -2627,11 +2627,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Al\\source\\repos\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Al\\source\\repos\\RestaurantAPIGithub\\RestaurantAPI\\RestaurantAPI.csproj",
       "projectName": "RestaurantAPI",
-      "projectPath": "C:\\Users\\Al\\source\\repos\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
+      "projectPath": "C:\\Users\\Al\\source\\repos\\RestaurantAPIGithub\\RestaurantAPI\\RestaurantAPI.csproj",
       "packagesPath": "C:\\Users\\Al\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Al\\source\\repos\\RestaurantAPI\\RestaurantAPI\\obj\\",
+      "outputPath": "C:\\Users\\Al\\source\\repos\\RestaurantAPIGithub\\RestaurantAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Al\\AppData\\Roaming\\NuGet\\NuGet.Config",
